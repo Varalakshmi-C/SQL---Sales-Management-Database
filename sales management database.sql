@@ -433,7 +433,3 @@ WHERE
     s.Sale_Date = '2024-10-06'
 GROUP BY 
     s.Sale_Date;
-    
-
-
-   
